@@ -1,17 +1,54 @@
 <h1 align="center">Hi 👋, I'm Prachi Jethava</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-chi-23.vercel.app/](https://portfolio-seven-chi-23.vercel.app/)
 
-- 📫 How to reach me **prachi.jethava2001@gmail.com**
+I am passionate about serving people and using technology to enhance their lives. I believe in the power of collaboration and dedicated work to create innovative solutions. With a strong interest in building impactful full-stack applications, developing intelligent machine learning models, and leveraging cloud technologies, I strive to solve real-world problems and contribute to a better future through purposeful and transformative innovation.
 
-- 📄 Know about my experiences [https://portfolio-seven-chi-23.vercel.app/resume](https://portfolio-seven-chi-23.vercel.app/resume)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prachijethava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachijethava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prachi1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachi1211" height="30" width="40" /></a>
-</p>
+## 🔎 About Me
+- 🎓 **Master's in Computer Science** @ Indiana University Bloomington
+- 💼 **Software Engineer** with experience in Python, React, and AWS
+- 🌱 Constantly learning and exploring new technologies
+- 🤝 Open to collaboration on exciting projects
+- 📧 Reach me at **prachi.jethava2001@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+- **Languages & Web Technologies:** Python, JavaScript, C, C++, SQL, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Django
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps & Cloud Platforms:** Docker, Kubernetes, GitHub Actions, AWS (S3, QuickSight, Athena, Glue, Lambda), GCP
+- **Tools:** Git, Postman, Jira, Trello, Supabase, Tableau
+
+---
+
+## 💼 Work Experience
+- **Software Developer Intern @ Dream Leo**
+
+    - As a passionate software developer, I enjoy building efficient and scalable web applications using technologies like MongoDB, React.js, and Node.js. With experience in optimizing performance, improving development workflows, and enhancing system efficiency, I am committed to creating impactful solutions that solve real-world problems.
+- **Software Engineer (Data Processing) @ Capgemini**
+  - As a Scrum Master and Web Developer alongwith helping for data processing for an AI-driven resume parsing web app, I led agile sprints to develop accurate data extraction models using HaarCascade and Bounding Box, increasing retrieval accuracy by 40% and reducing manual data entry by 50%.
+- **Data Scientist @ BrainyBeam** 
+  - I built sentiment analysis systems using SVM, Bayes Classifier, and NLP models, effectively reducing data noise by 75% and improving recommendation accuracy by 40%.
+
+---
+
+## 🎖️ Leadership & Achievements
+- **Lead Intern @ CEWIT:** Leading the Women Who Code alliance at IU, promoting diversity in tech.
+- **Break The Barrier:** Organized a national-level hackathon, managing web development and operations.
+- **Google Cloud Contributor:** Earned Silver League Badge on Google Cloud Platform.
+- **IBM Hack Challenge:** Ranked in the top 30 teams out of 2,000 participants.
+
+---
+
+
+## 📫 Let's Connect
+- [Email](mailto:prachi.jethava2001@gmail.com)
+- [LinkedIn](https://linkedin.com/in/prachijethava)
+- [Portfolio](https://portfolio-seven-chi-23.vercel.app/)
+
+
+> **"Code, Create, Innovate!"** 🚀
+
